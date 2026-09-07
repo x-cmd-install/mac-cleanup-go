@@ -5,15 +5,15 @@ about:
   head: 06cc192
   archived: false
   latestVersion: "v1.6.0"
-  collectedAt: 2026-09-07T06:01:26Z
+  collectedAt: 2026-09-07T18:37:32Z
 timeline:
   created: 2026-01-01
   lastCommit: 2026-07-23
   lastRelease: 2026-07-22
 popularity:
-  star: 459
+  star: 460
   watcher: 1
-  fork: 10
+  fork: 11
   release: 31
   contributor: 2
   pullRequest: 90
@@ -82,7 +82,7 @@ total:
   commit: 240
 ---
 path: /home/runner/.x-repo/github.com/2ykwang/mac-cleanup-go
-collectedAt: 2026-09-07T06:01:28Z
+collectedAt: 2026-09-07T18:37:33Z
 loc:
   Go:
     code: 14606
@@ -128,7 +128,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T06:01:28+00:00
+  collectedAt: 2026-09-07T18:37:34+00:00
   platform:
     darwin/arm64:
       name:  mac-cleanup-go_1.6.0_darwin_arm64.tar.gz
