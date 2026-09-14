@@ -47,12 +47,12 @@ x install mac-cleanup-go
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-15 | 1 | 2 | 4 | 1 | 0 | 0 |
-| 90d | 2026-06-15 | 1 | 6 | 4 | 1 | 0 | 0 |
-| last180d | 2026-03-17 | 3 | 17 | 4 | 3 | 3 | 0 |
-| 360d | 2025-09-18 | 31 | 73 | 4 | 13 | 4 | 0 |
-| last720d | 2024-09-23 | 31 | 73 | 4 | 13 | 4 | 240 |
+| 30d | 2026-08-15 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-16 | 1 | 2 | 4 | 1 | 0 | 4 |
+| 90d | 2026-06-16 | 1 | 6 | 4 | 1 | 0 | 8 |
+| last180d | 2026-03-18 | 3 | 17 | 4 | 3 | 3 | 18 |
+| 360d | 2025-09-19 | 31 | 73 | 4 | 13 | 4 | 219 |
+| last720d | 2024-09-24 | 31 | 73 | 4 | 13 | 4 | 240 |
 
 ## Release 资产
 
@@ -61,14 +61,6 @@ x install mac-cleanup-go
 | [checksums.txt](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.6.0/checksums.txt) | 214 B | `other` |
 | [mac-cleanup-go_1.6.0_darwin_amd64.tar.gz](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.6.0/mac-cleanup-go_1.6.0_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
 | [mac-cleanup-go_1.6.0_darwin_arm64.tar.gz](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.6.0/mac-cleanup-go_1.6.0_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
-
-## 发行版状态
-
-在 [repology.org](https://repology.org/project/mac-cleanup-go) 上共有 **3** 个发行版报告此项目。**2** 个 ✅ 已是最新上游版本，**0** 个 ⚠️ 使用旧版本。
-
-| 发行版 | 版本 | 状态 |
-|--------|------|------|
-| Homebrew | `1.6.0` | ✅ latest |
 
 ## 改进这些数据
 
@@ -79,4 +71,4 @@ mac-cleanup-go 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/in
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260913.yml` · 2026-09-13T06:25:00Z._
+_数据快照: `data/card/260914.yml` · 2026-09-14T06:31:57Z._
