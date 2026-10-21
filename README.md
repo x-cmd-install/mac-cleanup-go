@@ -47,12 +47,12 @@ Total: **16,431** lines of code across **94** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 3 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 5 | 0 | 0 | 0 |
-| 90d | 2026-07-22 | 1 | 1 | 5 | 0 | 0 | 0 |
-| last180d | 2026-04-23 | 3 | 14 | 5 | 6 | 0 | 12 |
-| 360d | 2025-10-25 | 31 | 73 | 5 | 16 | 1 | 219 |
-| last720d | 2024-10-30 | 31 | 73 | 5 | 16 | 1 | 240 |
+| 30d | 2026-09-21 | 0 | 0 | 3 | 0 | 0 | 0 |
+| last60d | 2026-08-22 | 0 | 0 | 5 | 0 | 0 | 0 |
+| 90d | 2026-07-23 | 0 | 0 | 5 | 0 | 0 | 0 |
+| last180d | 2026-04-24 | 3 | 14 | 5 | 5 | 0 | 12 |
+| 360d | 2025-10-26 | 31 | 73 | 5 | 16 | 1 | 219 |
+| last720d | 2024-10-31 | 31 | 73 | 5 | 16 | 1 | 240 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for mac-cleanup-go lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T05:58:53Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T05:50:50Z._
