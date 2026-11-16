@@ -14,14 +14,14 @@ x install mac-cleanup-go
 
 ## Code insight
 
-Total: **16,431** lines of code across **94** files in the top 5 languages.
+Total: **18,899** lines of code across **101** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 14,606 | 537 | 3,322 | 89 |
-| Yaml | 1,519 | 18 | 172 | 2 |
+| Go | 16,609 | 607 | 3,681 | 96 |
+| Yaml | 2,007 | 20 | 205 | 2 |
 | ObjectiveC | 125 | 1 | 24 | 1 |
-| Makefile | 114 | 7 | 30 | 1 |
+| Makefile | 91 | 7 | 28 | 1 |
 | Svg | 38 | 4 | 7 | 1 |
 
 ## Source
@@ -31,36 +31,36 @@ Total: **16,431** lines of code across **94** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.6.0` (2026-07-22)
-- **Last commit**: 2026-07-23
+- **Latest**: `v1.8.0` (2026-11-15)
+- **Last commit**: 2026-11-15
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 466 · **Forks**: 12 · **Open issues**: 17 · **Contributors**: 2
+- **Stars**: 467 · **Forks**: 12 · **Open issues**: 17 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 73 · **Open PRs**: 6 · **Closed issues**: 16 · **Open issues**: 1 · **Commits**: 240
+- **Releases**: 33 · **Merged PRs**: 76 · **Open PRs**: 8 · **Closed issues**: 16 · **Open issues**: 1 · **Commits**: 244
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-16 | 0 | 0 | 1 | 0 | 0 | 0 |
-| last60d | 2026-09-16 | 0 | 0 | 4 | 0 | 0 | 0 |
-| 90d | 2026-08-17 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last180d | 2026-05-19 | 2 | 10 | 6 | 2 | 0 | 10 |
-| 360d | 2025-11-20 | 31 | 73 | 6 | 16 | 1 | 219 |
-| last720d | 2024-11-25 | 31 | 73 | 6 | 16 | 1 | 240 |
+| 30d | 2026-10-17 | 2 | 3 | 3 | 0 | 0 | 4 |
+| last60d | 2026-09-17 | 2 | 3 | 6 | 0 | 0 | 4 |
+| 90d | 2026-08-18 | 2 | 3 | 8 | 0 | 0 | 4 |
+| last180d | 2026-05-20 | 4 | 13 | 8 | 2 | 0 | 14 |
+| 360d | 2025-11-21 | 33 | 76 | 8 | 16 | 1 | 223 |
+| last720d | 2024-11-26 | 33 | 76 | 8 | 16 | 1 | 244 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [checksums.txt](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.6.0/checksums.txt) | 214 B | `other` |
-| [mac-cleanup-go_1.6.0_darwin_amd64.tar.gz](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.6.0/mac-cleanup-go_1.6.0_darwin_amd64.tar.gz) | 3.5 MiB | `native/darwin/x64` |
-| [mac-cleanup-go_1.6.0_darwin_arm64.tar.gz](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.6.0/mac-cleanup-go_1.6.0_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
+| [checksums.txt](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.8.0/checksums.txt) | 214 B | `other` |
+| [mac-cleanup-go_1.8.0_darwin_amd64.tar.gz](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.8.0/mac-cleanup-go_1.8.0_darwin_amd64.tar.gz) | 3.6 MiB | `native/darwin/x64` |
+| [mac-cleanup-go_1.8.0_darwin_arm64.tar.gz](https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.8.0/mac-cleanup-go_1.8.0_darwin_arm64.tar.gz) | 3.3 MiB | `native/darwin/arm64` |
 
 ## Distribution status
 
@@ -68,7 +68,7 @@ Reported by **3** distros on [repology.org](https://repology.org/project/mac-cle
 
 | Distro | Version | Status |
 |--------|---------|--------|
-| Homebrew | `1.6.0` | ✅ latest |
+| Homebrew | `1.8.0` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for mac-cleanup-go lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261115.yml` · 2026-11-15T08:05:37Z._
+_Snapshot: `data/card/261116.yml` · 2026-11-16T08:55:02Z._
