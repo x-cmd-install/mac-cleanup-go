@@ -32,7 +32,7 @@ Total: **18,899** lines of code across **101** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.0` (2026-11-15)
-- **Last commit**: 2026-11-15
+- **Last commit**: 2026-11-16
 - **Assets in release**: 3
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **18,899** lines of code across **101** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 76 · **Open PRs**: 8 · **Closed issues**: 16 · **Open issues**: 1 · **Commits**: 244
+- **Releases**: 33 · **Merged PRs**: 76 · **Open PRs**: 12 · **Closed issues**: 16 · **Open issues**: 1 · **Commits**: 246
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-17 | 2 | 3 | 3 | 0 | 0 | 4 |
-| last60d | 2026-09-17 | 2 | 3 | 6 | 0 | 0 | 4 |
-| 90d | 2026-08-18 | 2 | 3 | 8 | 0 | 0 | 4 |
-| last180d | 2026-05-20 | 4 | 13 | 8 | 2 | 0 | 14 |
-| 360d | 2025-11-21 | 33 | 76 | 8 | 16 | 1 | 223 |
-| last720d | 2024-11-26 | 33 | 76 | 8 | 16 | 1 | 244 |
+| 30d | 2026-10-18 | 2 | 3 | 7 | 0 | 0 | 6 |
+| last60d | 2026-09-18 | 2 | 3 | 10 | 0 | 0 | 6 |
+| 90d | 2026-08-19 | 2 | 3 | 12 | 0 | 0 | 6 |
+| last180d | 2026-05-21 | 4 | 13 | 12 | 2 | 0 | 16 |
+| 360d | 2025-11-22 | 33 | 76 | 12 | 16 | 1 | 225 |
+| last720d | 2024-11-27 | 33 | 76 | 12 | 16 | 1 | 246 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for mac-cleanup-go lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261116.yml` · 2026-11-16T08:55:02Z._
+_Snapshot: `data/card/261117.yml` · 2026-11-17T09:16:20Z._
