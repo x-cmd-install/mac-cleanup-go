@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 214,
       "digest": "sha256:a62507867ff51de588d6504585a19aa2a3bd6627589b44bb5a8ca2a69bf00838",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-11-15T19:35:29Z",
       "updated_at": "2026-11-15T19:35:29Z",
       "browser_download_url": "https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.8.0/checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3742412,
       "digest": "sha256:cf10265b57f3e4e6ae581ac1d1e4c61117215dc3f0019def9314d07715e523ea",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-15T19:35:29Z",
       "updated_at": "2026-11-15T19:35:29Z",
       "browser_download_url": "https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.8.0/mac-cleanup-go_1.8.0_darwin_amd64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3469404,
       "digest": "sha256:e7707ab80d9266a48bf9d9b1869a8d72daa4b45eba2dd9f1acb3391890028ad9",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-11-15T19:35:29Z",
       "updated_at": "2026-11-15T19:35:29Z",
       "browser_download_url": "https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.8.0/mac-cleanup-go_1.8.0_darwin_arm64.tar.gz"
