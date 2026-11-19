@@ -14,11 +14,11 @@ x install mac-cleanup-go
 
 ## Code insight
 
-Total: **18,899** lines of code across **101** files in the top 5 languages.
+Total: **18,916** lines of code across **103** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 16,609 | 607 | 3,681 | 96 |
+| Go | 16,626 | 600 | 3,667 | 98 |
 | Yaml | 2,007 | 20 | 205 | 2 |
 | ObjectiveC | 125 | 1 | 24 | 1 |
 | Makefile | 91 | 7 | 28 | 1 |
@@ -32,27 +32,27 @@ Total: **18,899** lines of code across **101** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v1.8.0` (2026-11-15)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-18
 - **Assets in release**: 3
 
 ## Popularity
 
-- **Stars**: 467 · **Forks**: 12 · **Open issues**: 17 · **Contributors**: 2
+- **Stars**: 468 · **Forks**: 12 · **Open issues**: 17 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 76 · **Open PRs**: 12 · **Closed issues**: 16 · **Open issues**: 1 · **Commits**: 246
+- **Releases**: 33 · **Merged PRs**: 77 · **Open PRs**: 9 · **Closed issues**: 16 · **Open issues**: 1 · **Commits**: 247
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 2 | 3 | 7 | 0 | 0 | 6 |
-| last60d | 2026-09-18 | 2 | 3 | 10 | 0 | 0 | 6 |
-| 90d | 2026-08-19 | 2 | 3 | 12 | 0 | 0 | 6 |
-| last180d | 2026-05-21 | 4 | 13 | 12 | 2 | 0 | 16 |
-| 360d | 2025-11-22 | 33 | 76 | 12 | 16 | 1 | 225 |
-| last720d | 2024-11-27 | 33 | 76 | 12 | 16 | 1 | 246 |
+| 30d | 2026-10-20 | 2 | 4 | 4 | 0 | 0 | 7 |
+| last60d | 2026-09-20 | 2 | 4 | 7 | 0 | 0 | 7 |
+| 90d | 2026-08-21 | 2 | 4 | 9 | 0 | 0 | 7 |
+| last180d | 2026-05-23 | 4 | 14 | 9 | 2 | 0 | 17 |
+| 360d | 2025-11-24 | 33 | 77 | 9 | 16 | 1 | 226 |
+| last720d | 2024-11-29 | 33 | 77 | 9 | 16 | 1 | 247 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for mac-cleanup-go lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:16:20Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T10:34:35Z._
