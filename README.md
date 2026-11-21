@@ -37,7 +37,7 @@ Total: **19,150** lines of code across **106** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 468 · **Forks**: 12 · **Open issues**: 17 · **Contributors**: 2
+- **Stars**: 469 · **Forks**: 12 · **Open issues**: 17 · **Contributors**: 2
 
 ## Totals (cumulative)
 
@@ -47,12 +47,12 @@ Total: **19,150** lines of code across **106** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 2 | 5 | 3 | 0 | 0 | 8 |
-| last60d | 2026-09-21 | 2 | 5 | 6 | 0 | 0 | 8 |
-| 90d | 2026-08-22 | 2 | 5 | 8 | 0 | 0 | 8 |
-| last180d | 2026-05-24 | 4 | 15 | 8 | 2 | 0 | 18 |
-| 360d | 2025-11-25 | 33 | 78 | 8 | 16 | 1 | 227 |
-| last720d | 2024-11-30 | 33 | 78 | 8 | 16 | 1 | 248 |
+| 30d | 2026-10-22 | 2 | 5 | 2 | 0 | 0 | 8 |
+| last60d | 2026-09-22 | 2 | 5 | 6 | 0 | 0 | 8 |
+| 90d | 2026-08-23 | 2 | 5 | 8 | 0 | 0 | 8 |
+| last180d | 2026-05-25 | 4 | 15 | 8 | 2 | 0 | 18 |
+| 360d | 2025-11-26 | 33 | 78 | 8 | 16 | 1 | 227 |
+| last720d | 2024-12-01 | 33 | 78 | 8 | 16 | 1 | 248 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for mac-cleanup-go lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T10:35:26Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:03:20Z._
