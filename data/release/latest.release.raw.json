@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3742412,
       "digest": "sha256:cf10265b57f3e4e6ae581ac1d1e4c61117215dc3f0019def9314d07715e523ea",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-15T19:35:29Z",
       "updated_at": "2026-11-15T19:35:29Z",
       "browser_download_url": "https://github.com/2ykwang/mac-cleanup-go/releases/download/v1.8.0/mac-cleanup-go_1.8.0_darwin_amd64.tar.gz"
