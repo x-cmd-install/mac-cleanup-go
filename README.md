@@ -47,12 +47,12 @@ Total: **19,416** lines of code across **110** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 3 | 12 | 0 | 0 | 0 | 16 |
-| last60d | 2026-09-25 | 3 | 12 | 0 | 0 | 0 | 16 |
-| 90d | 2026-08-26 | 3 | 12 | 0 | 0 | 0 | 16 |
-| last180d | 2026-05-28 | 5 | 22 | 0 | 2 | 0 | 26 |
-| 360d | 2025-11-29 | 34 | 85 | 0 | 17 | 0 | 235 |
-| last720d | 2024-12-04 | 34 | 85 | 0 | 17 | 0 | 256 |
+| 30d | 2026-10-26 | 3 | 12 | 0 | 0 | 0 | 16 |
+| last60d | 2026-09-26 | 3 | 12 | 0 | 0 | 0 | 16 |
+| 90d | 2026-08-27 | 3 | 12 | 0 | 0 | 0 | 16 |
+| last180d | 2026-05-29 | 5 | 22 | 0 | 2 | 0 | 26 |
+| 360d | 2025-11-30 | 34 | 85 | 0 | 17 | 0 | 235 |
+| last720d | 2024-12-05 | 34 | 85 | 0 | 17 | 0 | 256 |
 
 ## Release assets
 
@@ -61,14 +61,6 @@ Total: **19,416** lines of code across **110** files in the top 5 languages.
 | [checksums.txt](https://github.com/2ykwang/mac-cleanup-go/releases/download/v2.0.0/checksums.txt) | 214 B | `other` |
 | [mac-cleanup-go_2.0.0_darwin_amd64.tar.gz](https://github.com/2ykwang/mac-cleanup-go/releases/download/v2.0.0/mac-cleanup-go_2.0.0_darwin_amd64.tar.gz) | 3.9 MiB | `native/darwin/x64` |
 | [mac-cleanup-go_2.0.0_darwin_arm64.tar.gz](https://github.com/2ykwang/mac-cleanup-go/releases/download/v2.0.0/mac-cleanup-go_2.0.0_darwin_arm64.tar.gz) | 3.6 MiB | `native/darwin/arm64` |
-
-## Distribution status
-
-Reported by **3** distros on [repology.org](https://repology.org/project/mac-cleanup-go). **2** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `2.0.0` | ✅ latest |
 
 ## Improve this data
 
@@ -79,4 +71,4 @@ Install metadata for mac-cleanup-go lives in the [x-cmd/install](https://github.
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:43:48Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:24:07Z._
