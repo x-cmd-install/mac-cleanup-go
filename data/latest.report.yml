@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.0.0"
   latestRelease: "v2.0.0"
   latestPrerelease: ""
-  collectedAt: 2026-11-27T09:21:51Z
+  collectedAt: 2026-11-28T09:04:00Z
 timeline:
   created: 2026-01-01
   lastCommit: 2026-11-22
@@ -30,7 +30,7 @@ language:
 totalBytes: 588206
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 3
     mergedPR: 12
     openPR: 1
@@ -38,7 +38,7 @@ recent:
     openIssue: 0
     commit: 16
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 3
     mergedPR: 12
     openPR: 1
@@ -46,7 +46,7 @@ recent:
     openIssue: 0
     commit: 16
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 3
     mergedPR: 12
     openPR: 1
@@ -54,7 +54,7 @@ recent:
     openIssue: 0
     commit: 16
   last180d:
-    since: 2026-05-31
+    since: 2026-06-01
     release: 5
     mergedPR: 22
     openPR: 1
@@ -62,7 +62,7 @@ recent:
     openIssue: 0
     commit: 26
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 34
     mergedPR: 85
     openPR: 1
@@ -70,7 +70,7 @@ recent:
     openIssue: 0
     commit: 235
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 34
     mergedPR: 85
     openPR: 1
@@ -86,7 +86,7 @@ total:
   commit: 256
 ---
 path: /home/runner/.x-repo/github.com/2ykwang/mac-cleanup-go
-collectedAt: 2026-11-27T09:21:53Z
+collectedAt: 2026-11-28T09:04:01Z
 loc:
   Go:
     code: 17120
